@@ -152,7 +152,7 @@ python ./webui.py
 ```
 在页面的文本框中输入文本，页面返回ChatGLM反馈的问题以及PaddleSpeech生成的语音。语音模型使用的是fastspeech2_mix支持中英文混合。
 
-![](.\imgs\page.png)
+![](https://github.com/zhuchuangang/chat_speech/blob/main/imgs/page.png)
 
 
-![](.\imgs\chat.png)
+![](https://github.com/zhuchuangang/chat_speech/blob/main/imgs/chat.png)
